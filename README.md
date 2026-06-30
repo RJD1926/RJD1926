@@ -72,7 +72,7 @@
 <div align="center">
 
 <a href="https://github.com/RJD1926/portfolio-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RJD1926&repo=portfolio-website&theme=tokyonight"/>
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=RJD1926&repo=portfolio-website&theme=tokyonight](https://rudradavee.netlify.app/propertys/img/logo.png)"/>
 </a>
 
 <a href="https://github.com/RJD1926/repo2">
