@@ -71,8 +71,8 @@
 
 <div align="center">
 
-<a href="https://github.com/RJD1926/repo1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RJD1926&repo=repo1&theme=tokyonight"/>
+<a href="https://github.com/RJD1926/portfolio-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RJD1926&repo=portfolio-website&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/RJD1926/repo2">
