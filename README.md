@@ -27,19 +27,23 @@
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<!-- Portfolio -->
+<a href="https://rudradave.me/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/rudra-dave-841750378/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM">
+<!-- Instagram -->
+<a href="https://www.instagram.com/rudra__1926/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_X">
+<!-- X (No duplicate logo/text) -->
+<a href="https://x.com/dave_rudra95088" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
